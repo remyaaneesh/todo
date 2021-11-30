@@ -1,0 +1,14 @@
+.banner{
+    background-color:#3498DB;
+    width:100%;
+    height:100px;
+    margin-bottom:50px;
+
+}
+.banner-text{
+top:25%;
+left:40% ;
+position:absolute;
+color:tomato;
+text-font:times new roman;
+}
